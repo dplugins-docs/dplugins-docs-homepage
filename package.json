@@ -4,7 +4,7 @@
     "tailwindcss": "^4.1.11"
   },
   "scripts": {
-    "watch": "npx @tailwindcss/cli -i ./assets/css/input.css -o ./assets/css/output.css --watch",
-    "build": "npx @tailwindcss/cli -i ./assets/css/input.css -o ./assets/css/output.css"
+    "watch": "npx @tailwindcss/cli -i https://dplugins-docs.github.io/dplugins-docs-homepage/assets/css/input.css -o https://dplugins-docs.github.io/dplugins-docs-homepage/assets/css/output.css --watch",
+    "build": "npx @tailwindcss/cli -i https://dplugins-docs.github.io/dplugins-docs-homepage/assets/css/input.css -o https://dplugins-docs.github.io/dplugins-docs-homepage/assets/css/output.css"
   }
 }
